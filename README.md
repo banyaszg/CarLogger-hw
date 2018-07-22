@@ -18,7 +18,7 @@ This device can also be used as the first version of the surveillance system. It
 # Hardware
 * [Schematic (PDF)](CarLogger.PDF)
 * [Gerber](Gerber)
-* [Drill](NC Drill)
+* [Drill](NC-Drill)
 * [Bill of materials](BOM/Bill%20of%20Materials-CarLogger.xls) (Use Grove connectors instead of JST!)
 * The PCB fits into this [case](https://www.aliexpress.com/item/16Pin-OBD2-Connector-J1962m-Handle-Connector-DIY/32782473183.html)
 
